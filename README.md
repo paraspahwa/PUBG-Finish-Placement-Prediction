@@ -407,7 +407,7 @@ Mean Squared Error is the measure of the square of the difference between actual
 In this project, a variety of machine learning algorithms and models were experimented. As we have mentioned earlier, we found that the algorithm which works best for this dataset is where grouping of data points is done, and feature dimensions is increased by adding more features from this grouping and also some manual features. Also, LightGBM being fast and efficient for large datasets works the best.
 
 # **5. References:**
-- Dataset - <https://www.kaggle.com/competitions/pubg-version-3/data>
+
 
 - Linear Regression - [Linear Regression Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
 
